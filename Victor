@@ -1,0 +1,24 @@
+/* J. Victor da costa santos - 3D
+Atividade recapitulativa de PAD
+
+Fork e Branch */
+
+
+bool drinkCoffe,hasCoffe;
+
+while(true)
+{
+   if(hasCoffe)
+   {
+     drinkCoffe = true;
+   }
+   else
+   {
+     drinkCoffe = false
+   }
+CoffeRef(hasCoffe);
+}
+
+
+
+
